@@ -24,5 +24,4 @@ This repository can be used as a reference guide/sample to enable publishing you
 - [GitHub Docs: GraphQL API](https://docs.github.com/graphql)
 - [GitHub Docs: GitHub Container Registry](https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-container-registry)
 - [ORAS](https://oras.land/)
-
-
+- [OCI Specifications](https://github.com/opencontainers/image-spec)
